@@ -85,7 +85,7 @@ class myHeader extends HTMLElement{
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
                 <h1 class="mb-1">Mon Portfolio</h1>
-                <h3 class="mb-5"><em>Bienvenu dans mon univers!</em></h3>
+                <h3 class="mb-5"><em>Bienvenue dans mon univers!</em></h3>
                 <a class="btn btn-primary btn-xl" href="#about">EN SAVOIR PLUS</a>
                 
             </div>
